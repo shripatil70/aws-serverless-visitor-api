@@ -65,7 +65,7 @@ python deploy.py
 
 ---
 
-##🎯 Features
+## 🎯 Features
 
 - Real-time visitor tracking
 - IP address logging
@@ -74,5 +74,6 @@ python deploy.py
 - Automated infrastructure setup
 
 ---
+
 
 
